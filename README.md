@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HimakarRaju</h1>
-<h3 align="center">A passionate Java Full Stack developer from India. In pursuit of more knowledge on new technologies.</h3>
+<h3 align="center">A passionate developer from India. In pursuit of more knowledge on new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himakarraju&label=Profile%20views&color=0e75b6&style=flat" alt="himakarraju" /> </p>
 
